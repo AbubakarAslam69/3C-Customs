@@ -1,0 +1,80 @@
+@media only screen and (max-width: 1920px) and (min-width: 1500px) {
+  .container {
+    max-width: 1380px;
+  }
+}
+
+@media only screen and (max-width: 1600px) {}
+
+@media only screen and (max-width: 1445px) {}
+
+@media only screen and (max-width: 1366px) {
+  html {
+    font-size: 15px;
+  }
+
+  .checkinfo p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  html {
+    font-size: 14px;
+  }
+
+  .navbar-nav {
+    width: 96%;
+  }
+
+  .aboutInfo h3 {
+    font-size: 50px;
+  }
+
+  .aboutInfo p {
+    font-size: 13px;
+  }
+
+  .abtinfo-img img {
+    width: 645px;
+    height: 247px;
+  }
+  .checkinfo p {
+    font-size: 11px;
+  }
+  .abt-anchor a {
+    font-size: 13px;
+  }
+  .coatImg {
+    left: 27%;
+  }
+  .contact-txt h3{
+    font-size: 30px;
+  }
+  .review-info p{
+    font-size: 13px;
+  }
+  .client{
+    padding: 1px 13.2px;
+    left: 29%;
+  }
+  footer h3{
+    font-size: 21px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 575.98px) {}
+
+@media (max-width: 320.98px) {}
